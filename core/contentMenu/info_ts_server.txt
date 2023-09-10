@@ -1,0 +1,2 @@
+﻿<t align='center' font='TahomaB'>TeamSpeak and Game Server IP's</t><br/>
+You can use these ip&#39;s to remote connect directly to the server. Instead of searching in the browser list you can remote connect and it shows up instantly.<br/><br/>

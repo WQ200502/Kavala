@@ -1,0 +1,95 @@
+﻿
+<t align='center' size='2' shadow='0'><t color='#1BFF00'>Vigilante Guide.</t></t><br/>
+<t align='center'>Guide by: RobinHood</t><br/><br/>
+Hey Folks,<br/>
+With the new vigilante update being pushed out I thought I would create a guide on how the vigilante role works, along with some helpful tips to improve your experience.<br/>
+Vigilantes are individuals who have made the decision to take enforcement of the law into their own hands, otherwise known as a bounty hunters.<br/>
+Vigilantes are separate from law enforcement, with less restrictions and rules, however less firepower compared to the Altis Police Department.<br/>
+Vigilantes are no exception to the law. They must follow rules regarding RDM, VDM, etc. If you play intelligently, you can be just as successful as any other faction.<br/>
+Please make sure you have read the<a href='QQ群：713722591'>before embarking on your journey as a Vigilante!</a><br/>
+<t align='center' size='2' shadow='0'><t color='#1BFF00'>How to begin.</t></t><br/>
+Throughout the map there are 5 Vigilante outposts where licenses available for purchase. These outposts are located in the major cities, Kavala, Athira, Neochori, Pyrgos, and Sofia.<br/>
+By accessing your map you can easily locate the outpost symbol. It costs $75,000 to become a Vigilante, along with a $25,000 firearms license fee (which I recommend you purchase to not get in trouble with the law enforcement).<br/>
+If you are currently a rebel and planning to switch however, it will cost $120,000 which does not include the firearms license fee.<br/>
+<t align='center' size='2' shadow='0'><t color='#1BFF00'>Requirements/Rules.</t></t><br/>
+2 hour on the Olymupus Servers<br/>
+Vigilantes are no exception to the law. They must also follow the server rules regarding RDM, VDM etc.<br/>
+Vigilantes are not required to announce before shooting in red/illegal zones.<br/>
+  1.The difference between a Vigilante and a Civilian is only that they can place a wanted player in jail.<br/>
+  2.You are still able to do illegal activities and can be ticketed and/or arrested<br/>
+Players associated with meta-gaming while having a vigilante license may be subjective to receive administrative action.<br/>
+  1.If a player has been a victim of robbery or murder, that player may not return to seek revenge and send him/her to jail.<br/>
+  2.You may not follow a player around who is breaking the law and continue to collect the bounty on them over and over.<br/>
+  3.Example a player is placed in jail, you or a member of your group break them out only so you can place them back into jail over and over.<br/>
+  4.You may not group with a player and allow then to build a bounty just to collect on it in the end.<br/>
+Do NOT abuse the vigilante license.<br/>
+  1.Do NOT send players to jail with less than $75,000 bounty.<br/>
+  2.Do NOT take a wanted player, that is already restrained, away from another Vigilante unless they have asked you to.<br/>
+  3.Do NOT pull players out of vehicles if a player is not wanted.<br/>
+  4.Do NOT send people from your own gang to jail.<br/>
+  5.You may NOT rob a wanted player and then place them in jail for a bounty.<br/>
+  6.his includes members of your party as well.<br/>
+Vigilantes that repeatedly down another player without justifiable cause will be considered RDM and will be dealt with via administrative action.<br/>
+  1.Downing a player to keep them down cause you have no zip ties is RDM.<br/>
+  2.If you are robbing a player outside the vigilante role it must be RP'd as normal.<br/>
+  3.Downing a player with a bounty before announcing yourself is RDM (Side chat is not considered announcing).<br/>
+Downing a player with a bounty that is running away from you after announcing yourself is NOT RDM.<br/>
+  1.Vigilantes can simply be put as forces that have been rejected, denied or have yet to be accepted to the Police Force to serve justice in Altis Life. However, they are not cops. Hence, they are only authorized to act upon subjects that have a $75,000 bounty or higher on their head. You do NOT enforce laws, that is an officers job.<br/>
+  2.Vigilantes may not have their weapons out in main cities just like any other Civilian. If a APD member asks a vigilante to holster their weapon, they must comply or potentially face a ticket from the APD.<br/>
+  3.Vigilantes should never attempt to arrest an APD Detainee. If APD ask for assistance that is fine but do not run into an area yelling I'm a vigilante and attempt to arrest someone the officer is dealing with.<br/>
+Vigilantes can simply be put as forces that have been rejected, denied or have yet to be accepted to the Police Force to serve justice in Altis Life. However, they are not cops. Hence, they are only authorized to act upon subjects that have a $75,000 bounty or higher on their head. You do NOT enforce laws, that is an officers job.<br/>
+  1.Vigilantes may not have their weapons out in main cities just like any other Civilian. If a APD member asks a vigilante to holster their weapon, they must comply or potentially face a ticket from the APD.<br/>
+  2.Vigilantes should never attempt to arrest an APD Detainee. If APD ask for assistance that is fine but do not run into an area yelling I'm a vigilante" and attempt to arrest someone the officer is dealing with.<br/>
+  3.If you are escorting a player with a bounty and an officer asks you to stop you need to stop and explain what you are doing. Officers can NOT take the wanted player away and attempt to ticket or send the player to jail if you have captured the wanted player(s) in the appropriate manner.<br/>
+  4.If you are wanted the APD may process you and if you refuse to pay your ticket the APD may then process all wanted players accordingly.<br/>
+If you restrain a wanted player you are required to.<br/>
+  1.Let the player know what they are wanted for.<br/>
+  2.Let the player know their bounty amount.<br/>
+  3.Let the player know you will be sending them to jail.<br/>
+  4.Take the player to the jail transport located at all Vigilante outposts?.<br/>
+<t align='center' size='2' shadow='0'><t color='#1BFF00'>Failure to follow these rules will result in administrative action towards your account.</t></t><br/>
+<t align='center' size='2' shadow='0'><t color='#1BFF00'>Tips & Tricks</t></t><br/>
+ Always use a recording software.<br/>
+The majority of players you run into wont fully understand the server rules. Using ShadowPlay or OBS is a way to record your POV when a rule is broken by another player. This will only help you if you are losing gear sets and bounties to people breaking the server rules.
+ Make sure your VON is at max volume. You can easily change this by going into your audio settings and raising the bar all the way.<br/>
+ Using earplugs (Shift + O) is very useful when talking to other players.<br/>
+ Enable Voice Over Net.  You can locate this option in Controls under the multiplayer tab.  Most prefer to enable it by pressing Tab twice, which allows you to speak in general without your Y menu interfering.<br/>
+For example, when processing an individual you can speak to them while their bounty menu is open. This enables you to conveniently read off their charges and speak to them at the same time, without having to hold down your VON key.<br/>
+ Running with a group will help you become an even more successful Vigilante.<br/>
+A group will help you protect any players you are trying to transport to the Vigilante Outpost.<br/>
+ Always carry extra zip ties (stack your car inventory with some).<br/>
+Zip ties drop upon death, so having a backup located in your vehicle is handy due to players stealing them when you die.<br/>
+ Keep spare bolt cutters in a house if you have one.<br/>
+You may encounter players locking themselves within their homes in order to safely secure them from you. Having them on your person or within your vehicle drastically changes how a situation can play out.<br/>
+ Remember to take comms and GPS from the people you have restrained.<br/>
+Taking away comms and GPS restricts players from speaking to their gang members whilst restrained.<br/>
+ Conduct yourself in a respectable manner.<br/>
+People despise vigilantes, so why make it worse? Treat players with respect and hopefully they reciprocate.<br/>
+ Make sure you clearly state what the player is wanted for and their bounty amount when reading off the players charges.<br/>
+Failure to do so will result in a server ban and nobody wants that.<br/>
+ Always remember to tell players that you will be sending them to jail once you arrive at a Vigilante Outpost.<br/>
+ Pressing the 1 key will bring up the wanted list.<br/>
+Immediately pressing the first letter of the wanted player will highlight them on the wanted list. This reduces time wasted scrolling looking for the players name on the wanted list.<br/>
+ Combat stance is a necessity (double tap the C key).<br/>
+Time is the most important factor when fighting someone. The millisecond it takes for the player to raise his/her weapon to shoot will only get you killed. Having the gun raised, and ready to shoot will help you win gunfights.<br/>
+ Have a pre-written text message ready to easily engage with wanted players.<br/>
+Make sure your demands are explicitly stated, along with their consequence for not following them as well as your name and whoever you are grouped with.  If your pre-written message is not concise, you need to give them extra time on top of the 5 seconds engagement for them to read your message.<br/>
+ Use specific routes when transporting bounties (i.e. driving someone north of Kavala then making a left turn towards Vigilante Outpost to avoid any confrontations with other players that may result in losing the bounty).<br/>
+ Make smart choices when arresting someone within a group. Using a helicopter to transport someone to another outpost will decrease gang members from stopping your arrest from occurring.  Again, do not forget to take their comms and GPS.<br/>
+
+
+  
+
+
+
+
+
+
+
+
+
+	 
+	
+
+
+

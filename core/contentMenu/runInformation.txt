@@ -1,0 +1,38 @@
+﻿<t align='center' size='2' color='#1BFF00'>Illegal/Legal Run Information</t><br/>
+<t align='center'>Guide by: Snifferdog</t><br/><br/>
+
+Run sequence and required items...<br/><br/>
+
+<t color='#8300FF'>Purple - Pickaxe Required</t><br/>
+<t color='#ff0000'>Red - Illegal Area(s)</t><br/>
+
+Note: If the area includes an illegal area to gather/process/sell it is an illegal finished item.<br/><br/>
+
+Salt: <t color='#8300FF'>Salt Mine</t> -> Salt Processing -> Salt Trader<br/>
+Cement: <t color='#8300FF'>Rock Quarry</t> -> Rock Mixing -> Cement Trader<br/>
+Magic Mushrooms: Cow Manure -> <t color='#ff0000'>Magic Mushroom Processing</t> -> <t color='#ff0000'>Drug Dealer</t><br/>
+Cocaine: <t color='#ff0000'>Cocaine Field -> Cocaine Processing -> Drug Dealer</t><br/>
+Heroin: <t color='#ff0000'>Heroin Field -> Heroin Processing -> Drug Dealer</t><br/>
+Turtles: <t color='#ff0000'>Turtle Poaching (Water) -> Turtle Dealer</t><br/>
+Frog LSD: <t color='#ff0000'>Frog Swamp -> Frog Factory -> Turtle Dealer</t><br/>
+Apples: Apples -> Market<br/>
+Peaches: Peaches -> Market<br/>
+Corn: Corn -> Market<br/>
+Lithium: <t color='#8300FF'>Lithium</t> -> Market<br/>
+Yeast: Yeast -> Market<br/>
+Sugar: Sugar Cane -> Market<br/>
+Iron: <t color='#8300FF'>Iron Collection</t> -> Iron Processing -> Iron Trader<br/>
+Silver: <t color='#8300FF'>Silver Mine</t> -> Silver Processing -> Silver Trader<br/>
+Platinum: <t color='#8300FF'>Platinum Mine</t> -> Platinum Processing -> Platinum Trader<br/>
+Copper: <t color='#8300FF'>Copper Mine</t> -> Copper Processing -> Copper Trader<br/>
+Oil: <t color='#8300FF'>Oil Tower</t> -> Oil Processing -> Oil Trader<br/>
+Weed: <t color='#ff0000'>Weed Field -> Weed Processing -> Drug Dealer</t><br/>
+Diamond: <t color='#8300FF'>Diamond Mine</t> -> Diamond Processing -> Diamond Trader<br/>
+Sand: <t color='#8300FF'>Sand Mine</t> -> Sand Processing -> Glass Trader<br/>
+Meth: <t color='#ff0000'>Ephedra</t> + <t color='#8300FF'>Lithium</t> + <t color='#ff0000'>Phosphorous</t> -> <t color='#ff0000'>Meth Processing</t> -> <t color='#ff0000'>Drug Dealer</t><br/>
+Moonshine: Yeast + Sugar Cane + Corn -> <t color='#ff0000'>Moonshine Processing</t> -> <t color='#ff0000'>Moonshine Distributer</t><br/><br/><br/>
+
+• When you are first starting out on the server, you are probably going to want to make some money. The best way to make money is by doing runs. Doing a "run" generally consists of gathering a material from a specified field, processing those materials at the corresponding processor, and then selling them.<br/><br/>
+• Before you start your run, make sure that you have everything you need. This basically means make sure you have a pickaxe if you need it and buying a backpack, the bigger the better. The materials which require a pickaxe are as follows: Salt, Rock, Iron, Silver, Platinum, Copper, Oil, Diamond, and Sand. It is also important to ensure that you have the required license to process. If the material is legal, you can buy the license at a DMV, illegal licenses are bought at their respective processing areas.<br/><br/>
+• If you are starting out, it would be best to use an SUV as it is fast. This also helps to lower your risk of being robbed significantly. Should you choose to bring a tempest device, you can make it auto gather for you by pressing windows key on it, and then clicking on "mine from device". This will make the truck use a lot of fuel so it would be wise to bring a fuel can. For more protection, you can purchase a gun from a Rebel Outpost, Black Market, or Gun Store. A gun license is not needed at the Black Market, so you might want to consider buying one there if you are tight for cash. A gun is optional but it is good to be able to defend yourself, especially if you are doing an illegal run.<br/><br/>
+• After you finish your run, make sure to deposit your money at the nearest ATM so you do not lose it.

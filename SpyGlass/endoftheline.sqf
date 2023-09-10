@@ -1,0 +1,1 @@
+#include "Your Arma client was terminated by the server due to being detected by the anti hack."

@@ -1,0 +1,49 @@
+<t color='#ff0000'>Red text</t><br/>
+<t color='#99ffffff'>Transparent white text</t><br/>
+<t colorLink='#0000ff'><a href='http://www.arma3.com/'>Blue link</a></t><br/>
+<t size='2'> Large text</t><br/>
+<t align='center'>Centered Text</t><br/>
+<t shadow='1'>Text with shadow</t><br/>
+<t shadow='1' shadowColor='#ff0000'>Text with red Shadow</t><br/>
+<t shadow='2'>Text with outline</t><br/>
+<a href='http://google.com'>Google</a><br/>
+<a color='#0000FF' href='http://arma3.com'>Arma 3</a><br/>
+<a underline='true' color='#0000FF' href='http://killzonekid.com'>KK's&#160;blog</a><br/>
+<t size='2.0'>FIVE&#160;&#160;&#160;&#160;&#160;SPACES</t><br/><br/><br/>
+
+Font types<br/><br/>
+
+<t font='PuristaLight'>PuristaLight</t><br/>
+<t font='PuristaMedium'>PuristaMedium</t><br/>
+<t font='PuristaSemiBold'>PuristaSemiBold</t><br/>
+<t font='PuristaBold'>PuristaBold</t><br/>
+<t font='LucidaConsoleB'>LucidaConsoleB</t><br/>
+<t font='EtelkaMonospacePro'>EtelkaMonospacePro</t><br/>
+<t font='EtelkaMonospaceProBold'>EtelkaMonospaceProBold</t><br/>
+<t font='EtelkaNarrowMediumPro'>EtelkaNarrowMediumPro</t><br/>
+<t font='TahomaB'>TahomaB</t><br/>
+
+
+
+<br/>
+• Blindfolds fixed<br/>
+• Fix so that Cop and Medic don't show on map when restrained<br/>
+• Change scroll wheel lethal toggle<br/>
+• Fixed issue when epi-pen on restart and not getting dopamine. You won't be in that constant respawn loop anymore.<br/>
+• Fixed issue with double scroll menu options<br/>
+• Cops now get paid on lethal kill<br/>
+• Pardon is done on kill<br/>
+• Hemmt can now tow Prowlers, Quillins, and Jeeps<br/>
+• Coffee & Redgull will act the same as if you used the menu to use<br/>
+• Jail Exploit Fixes<br/>
+• Gas Station Exploit Fixes<br/>
+• APD planes are now for corporals.<br/>
+• Trump & Hillary T-Shirts available for purchase<br/>
+• Water Scooter available for purchase<br/>
+• Go-Kart vendor now available for your kart needs (He's at the go-kart track by the airfield)<br/>
+• Cop defuse message will now display properly<br/>
+• Taxi license dialog will now prompt players to pick to keep taxi license or to keep rebel/vigilante. Can no longer hold both at the same time.<br/>
+• ChopShop will now accept vehicles with dead bodies inside them.<br/>
+• Only the driver of APD vehicles can now turn on the lights<br/>
+• Hospital Healing will now allow you to heal above 99hp<br/>
+• Chat censorship fixed<br/>

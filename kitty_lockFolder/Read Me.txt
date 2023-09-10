@@ -1,0 +1,11 @@
+open or create Description.ext in your missions directory and paste this at the top(make sure defines.hpp is first)
+
+#include "kitty_lockFolder\dialog\kitty_defines.hpp"
+#include "kitty_lockFolder\dialog\kitty_control.hpp"
+
+
+place the folder kitty_lockFolder inside your missions directory.
+
+open or create initServer.sqf and paste this at the top
+
+execVM "kitty_lockFolder\kitty_codeLockInit.sqf";
