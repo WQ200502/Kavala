@@ -1,8 +1,8 @@
-author="생활 옷技术组";
+author="생활 ";
 onLoadName = "AMX 야채 기계 플레이어의 낙원 생활 옷";
 onLoadMission = "";
 overviewText = "";
-overviewTextLocked = "QQ群：375475771/";
+overviewTextLocked = "/";
 overviewPicture = "ka11.jpg";
 loadScreen = "ka11.jpg";
 OnLoadIntroTime = 0;
